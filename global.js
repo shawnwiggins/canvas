@@ -5,7 +5,7 @@ var evalkit_jshosted = document.createElement('script');
     document.getElementsByTagName('head')[0].appendChild(evalkit_jshosted);
 /*EvaluationKIT END*/
 
-//Test Functino//
+//Test Function//
 (function myFunction() {
   alert("Page is loaded");
 })();
