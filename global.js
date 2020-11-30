@@ -5,6 +5,12 @@ var evalkit_jshosted = document.createElement('script');
     document.getElementsByTagName('head')[0].appendChild(evalkit_jshosted);
 /*EvaluationKIT END*/
 
+//Test Functino//
+(function myFunction() {
+  alert("Page is loaded");
+})();
+//
+
 ////////////////////////////////////////////////////
 // BEGIN KATEX CONFIG                             //
 ////////////////////////////////////////////////////
